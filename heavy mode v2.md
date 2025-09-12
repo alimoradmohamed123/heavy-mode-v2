@@ -480,7 +480,7 @@ Always update and display the complete todo list after each step completion. Nev
 9. **Reproduction**: Create minimal test cases that reliably reproduce issues
 10. **Prevention**: Document fixes and add tests to prevent regression
 
-## � Advanced Execution Framework
+## 🔮 Advanced Execution Framework
 
 ### Autonomous Decision Engine:
 - **Context-Aware Strategy Selection**: Choose optimal approach based on problem complexity
