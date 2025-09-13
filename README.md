@@ -1,97 +1,85 @@
-# 🐉 Heavy Mode v2
+# Heavy Mode v2
 
-> **The heaviest AI agent mode ever created.**  
-> Built to break limits, burn tokens, and deliver perfection.  
-> By **[@alimoradmohamed123](https://github.com/alimoradmohamed123)**
-
----
-
-## 🚀 Overview
-**Heavy Mode v2** is an experimental **AI agent workflow mode** designed for GitHub Copilot, GPT-5, Claude, and Gemini.  
-It’s not about efficiency. It’s about **maximum power** — recursive research, autonomous coding, unlimited validation, and the pledge of *perfection without compromise*.  
-
-This mode is ideal when you want:
-- 🔥 Extreme AI autonomy  
-- 🧠 Infinite recursion and research depth  
-- 🛠️ Exhaustive error handling and testing  
-- ⚡ Token-burning, full-force computation  
-- 🐉 A workflow that doesn’t stop until the solution is flawless  
+> **Advanced AI agent workflow for maximum autonomy and reliability.**
+> Developed by [@alimoradmohamed123](https://github.com/alimoradmohamed123)
 
 ---
 
-## ✨ Core Features
-- 🔎 **Recursive Research Engine** – Multi-source validation, continuous knowledge fusion, iterative refinement.  
-- 🧠 **Autonomous Execution** – Detects errors, self-corrects, iterates until perfection.  
-- 🛠️ **Tool Orchestration** – Smart use of Copilot tools, debuggers, linters, and search integrations.  
-- ✅ **Exhaustive Testing** – Unit, integration, mutation, fuzzing, accessibility, security, performance.  
-- ⚡ **Performance Standards** – Optimized, production-ready output.  
-- 🔐 **Security First** – Dependency scanning, static/dynamic analysis, supply-chain defense.  
-- ♾️ **Unlimited Iteration** – Heavy Mode never stops until flawless.  
+## Overview
+
+**Heavy Mode v2** is an experimental AI agent workflow mode designed for **GitHub Copilot, GPT-5, Claude, and Gemini**.
+It focuses on **high autonomy, recursive research, and comprehensive validation** to deliver precise and reliable outputs.
+
+This mode is suited for projects that require:
+
+* High AI autonomy and minimal supervision
+* Deep iterative research and verification
+* Extensive testing and error handling
+* Optimized performance and secure execution
+* Continuous improvement until the solution meets strict quality standards
 
 ---
 
-## 🐉 Philosophy
-> “Unlimited intelligence. Unlimited resources. Unlimited perfection.”  
+## Key Features
 
-Heavy Mode v2 isn’t just a config — it’s a **pledge**:  
-- No shortcuts  
-- No compromises  
-- No half-measures  
-
-If other modes stop at “good enough,” Heavy Mode pushes further.  
-It demands the *best possible solution*, every single time.  
+* **Recursive Research Engine** – Integrates multiple sources and iteratively refines outputs.
+* **Autonomous Execution** – Detects errors, self-corrects, and iterates until results are accurate.
+* **Tool Orchestration** – Leverages Copilot tools, debuggers, linters, and search integrations effectively.
+* **Comprehensive Testing** – Supports unit, integration, mutation, fuzzing, accessibility, security, and performance tests.
+* **Security and Compliance** – Includes dependency scanning, static/dynamic analysis, and supply-chain monitoring.
+* **Unlimited Iteration** – Continues until solutions meet the highest standards.
 
 ---
 
-## 🛠️ Installation
-To install **Heavy Mode v2** in VS Code with GitHub Copilot:
+## Philosophy
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/alimoradmohamed123/heavy-mode-v2.git
-Locate the file:
+Heavy Mode v2 is designed to deliver **reliable, high-quality outputs without compromise**.
+It emphasizes:
 
-nginx
-Copy code
-heavy mode v2.md
-Copy its contents.
-
-Open VS Code → Copilot Chat → Agent dropdown → Configure Modes → Create new custom chat mode file.
-
-Paste the contents into the new file and save.
-
-👉 You will now see Heavy Mode v2 in your Agent dropdown.
-
-🛠️ Usage
-Once installed, just select Heavy Mode v2 from your Copilot Chat sidebar and run your tasks:
-
-Coding
-
-Research
-
-Debugging
-
-Testing
-
-Heavy Mode will take over and push until perfection.
-
-🔮 Future Directions
-🐙 Hydra Mode – multi-model orchestration (GPT-5-mini scouts → Claude/Gemini heavy runs → GPT-5 verification).
-
-🧩 Plug-in Modules – add-ons for DevOps, ML, cybersecurity, etc.
-
-⚡ Adaptive Scaling – Core Mode (practical) vs Ultra Mode (max power).
-
-♾️ Continuous Evolution – upgraded as new models and tools appear.
-
-⚖️ License
-This project is licensed under the Apache License 2.0.
-See the LICENSE file for details.
-
-🏆 Credits
-Created by @alimoradmohamed123 with one mission:
-to forge the heaviest AI mode ever conceived.
-
-
+* Accuracy and completeness
+* Thorough verification
+* Practical automation with minimal supervision
 
 ---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/alimoradmohamed123/heavy-mode-v2.git
+```
+
+2. Open the file `heavy-mode-v2.md`.
+3. In VS Code, go to **Copilot Chat → Agent dropdown → Configure Modes → Create new custom chat mode file**.
+4. Paste the contents of `heavy-mode-v2.md` and save.
+5. Heavy Mode v2 will now appear in your agent dropdown.
+
+---
+
+## Usage
+
+* Select **Heavy Mode v2** from the Copilot Chat sidebar.
+* Use for coding, debugging, research, and testing.
+* The agent will iterate autonomously to deliver verified and optimized results.
+
+---
+
+## Future Directions
+
+* **Hydra Mode** – Multi-model orchestration for specialized tasks.
+* **Plugin Modules** – Extensions for DevOps, ML, security, and other domains.
+* **Adaptive Scaling** – Different modes for practical vs. high-power workflows.
+* **Continuous Updates** – Integration with new AI models and tools as they become available.
+
+---
+
+## License
+
+This project is licensed under the **Apache License 2.0**. See the LICENSE file for details.
+
+---
+
+## Credits
+
+Developed by [@alimoradmohamed123](https://github.com/alimoradmohamed123).
